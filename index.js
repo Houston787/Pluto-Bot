@@ -16,7 +16,7 @@ bot.on('message', function(message){
     }
 });
 
-bot.login("NDc0MjUzMzkyMDAxMjM2OTk0.DmlU4g.tD3dlnC9WuXuFws4GM1rXQGr2Gs");
+bot.login("WHO EVER GOT ACCESS AND DESTROYED EVERYTHING...WHY JUST WHY");
 
 global.servers = {};
 
